@@ -1,0 +1,6 @@
+set(symab_backpack_SETUP_PY_VERSION "0.0.0")
+set(symab_backpack_SETUP_PY_SCRIPTS "")
+set(symab_backpack_SETUP_PY_PACKAGES "brain;feature_generator;tools")
+set(symab_backpack_SETUP_PY_PACKAGE_DIRS "src/brain;src/feature_generator;src/tools")
+set(symab_backpack_SETUP_PY_MODULES "")
+set(symab_backpack_SETUP_PY_MODULE_DIRS "")

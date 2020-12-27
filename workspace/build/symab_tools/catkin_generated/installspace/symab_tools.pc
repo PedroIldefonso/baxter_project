@@ -1,0 +1,8 @@
+prefix=/home/pedroildefonso/baxter_project/workspace/install
+
+Name: symab_tools
+Description: Description of symab_tools
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/pedroildefonso/baxter_project/workspace/install/lib 
+Requires: 

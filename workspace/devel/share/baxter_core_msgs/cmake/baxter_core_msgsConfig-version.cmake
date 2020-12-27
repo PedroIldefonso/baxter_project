@@ -1,0 +1,1 @@
+/home/pedroildefonso/baxter_project/workspace/devel/.private/baxter_core_msgs/share/baxter_core_msgs/cmake/baxter_core_msgsConfig-version.cmake

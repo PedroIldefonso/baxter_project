@@ -1,0 +1,6 @@
+Symlinking /home/pedroildefonso/baxter_project/workspace/devel/share/symab_backpack/cmake/symab_backpackConfig.cmake
+Symlinking /home/pedroildefonso/baxter_project/workspace/devel/share/symab_backpack/cmake/symab_backpackConfig-version.cmake
+Symlinking /home/pedroildefonso/baxter_project/workspace/devel/lib/pkgconfig/symab_backpack.pc
+Symlinking /home/pedroildefonso/baxter_project/workspace/devel/lib/python2.7/dist-packages/feature_generator/__init__.py
+Symlinking /home/pedroildefonso/baxter_project/workspace/devel/lib/python2.7/dist-packages/tools/__init__.py
+Symlinking /home/pedroildefonso/baxter_project/workspace/devel/lib/python2.7/dist-packages/brain/__init__.py

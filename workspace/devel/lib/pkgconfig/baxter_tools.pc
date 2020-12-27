@@ -1,0 +1,1 @@
+/home/pedroildefonso/baxter_project/workspace/devel/.private/baxter_tools/lib/pkgconfig/baxter_tools.pc

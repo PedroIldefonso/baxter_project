@@ -1,0 +1,1 @@
+/home/pedroildefonso/baxter_project/workspace/devel/.private/baxter_maintenance_msgs/share/baxter_maintenance_msgs/cmake/baxter_maintenance_msgs-msg-paths.cmake

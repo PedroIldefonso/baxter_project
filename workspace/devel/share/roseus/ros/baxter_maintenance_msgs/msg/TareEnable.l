@@ -1,0 +1,1 @@
+/home/pedroildefonso/baxter_project/workspace/devel/.private/baxter_maintenance_msgs/share/roseus/ros/baxter_maintenance_msgs/msg/TareEnable.l

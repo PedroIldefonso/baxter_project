@@ -1,0 +1,1 @@
+/home/pedroildefonso/baxter_project/workspace/devel/.private/baxter_interface/share/baxter_interface/cmake/baxter_interfaceConfig-version.cmake

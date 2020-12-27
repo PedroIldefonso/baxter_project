@@ -1,0 +1,1 @@
+/home/pedroildefonso/baxter_project/workspace/devel/.private/symab_backpack/lib/pkgconfig/symab_backpack.pc

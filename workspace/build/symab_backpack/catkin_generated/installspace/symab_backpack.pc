@@ -1,0 +1,8 @@
+prefix=/home/pedroildefonso/baxter_project/workspace/install
+
+Name: symab_backpack
+Description: Description of symab_backpack
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/pedroildefonso/baxter_project/workspace/install/lib 
+Requires: 

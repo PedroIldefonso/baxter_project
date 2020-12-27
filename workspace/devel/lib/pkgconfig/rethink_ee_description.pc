@@ -1,0 +1,1 @@
+/home/pedroildefonso/baxter_project/workspace/devel/.private/rethink_ee_description/lib/pkgconfig/rethink_ee_description.pc

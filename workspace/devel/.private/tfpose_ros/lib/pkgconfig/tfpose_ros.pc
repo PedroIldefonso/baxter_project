@@ -1,0 +1,8 @@
+prefix=/home/pedroildefonso/baxter_project/workspace/devel/.private/tfpose_ros
+
+Name: tfpose_ros
+Description: Description of tfpose_ros
+Version: 0.1.0
+Cflags: -I/home/pedroildefonso/baxter_project/workspace/devel/.private/tfpose_ros/include
+Libs: -L/home/pedroildefonso/baxter_project/workspace/devel/.private/tfpose_ros/lib 
+Requires: rospy message_generation message_runtime

@@ -1,0 +1,6 @@
+devel_space: /home/pedroildefonso/baxter_project/workspace/devel
+install: false
+install_space: /home/pedroildefonso/baxter_project/workspace/install
+profile: default
+source_space: /home/pedroildefonso/baxter_project/workspace/src
+workspace: /home/pedroildefonso/baxter_project/workspace

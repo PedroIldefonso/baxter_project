@@ -1,0 +1,6 @@
+Symlinking /home/pedroildefonso/baxter_project/workspace/devel/share/symab_tools/cmake/symab_toolsConfig.cmake
+Symlinking /home/pedroildefonso/baxter_project/workspace/devel/share/symab_tools/cmake/symab_toolsConfig-version.cmake
+Symlinking /home/pedroildefonso/baxter_project/workspace/devel/lib/pkgconfig/symab_tools.pc
+Symlinking /home/pedroildefonso/baxter_project/workspace/devel/lib/python2.7/dist-packages/symab_misc/__init__.py
+Symlinking /home/pedroildefonso/baxter_project/workspace/devel/lib/python2.7/dist-packages/symab_execution/__init__.py
+Symlinking /home/pedroildefonso/baxter_project/workspace/devel/lib/python2.7/dist-packages/symab_recording/__init__.py

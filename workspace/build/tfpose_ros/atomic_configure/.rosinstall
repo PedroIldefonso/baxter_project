@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/pedroildefonso/baxter_project/workspace/devel/.private/tfpose_ros/setup.sh

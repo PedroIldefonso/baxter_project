@@ -1,0 +1,1 @@
+/home/pedroildefonso/baxter_project/workspace/devel/.private/symab_backpack/share/symab_backpack/cmake/symab_backpackConfig.cmake
